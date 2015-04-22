@@ -1,0 +1,28 @@
+{
+  "name": "ooahh-browser",
+  "version": "1.0.1",
+  "description": "An Ooahh browser example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/active9/ooahh-browser"
+  },
+  "keywords": [
+    "ooahh",
+    "browser",
+    "chrome",
+    "chromeless",
+    "app",
+    "cross-platform",
+    "web"
+  ],
+  "author": "Active 9 LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/active9/ooahh-browser/issues"
+  },
+  "homepage": "https://github.com/active9/ooahh-browser"
+}
